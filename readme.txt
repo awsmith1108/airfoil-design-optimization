@@ -141,3 +141,4 @@ References
 - XFOIL Airfoil Analysis Tool: http://web.mit.edu/drela/Public/web/xfoil/
 - Genetic Algorithms: https://en.wikipedia.org/wiki/Genetic_algorithm
 - Reinforcement Learning: https://en.wikipedia.org/wiki/Reinforcement_learning
+- https://github.com/JARC99/xfoil-runner
