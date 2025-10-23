@@ -1,5 +1,5 @@
-LOAD naca0012.dat
-naca0012
+LOAD Airfoil_1.dat
+Airfoil_1
 PANE
 OPER
 Visc 1000000
@@ -7,7 +7,7 @@ PACC
 polar_file.txt
 
 ITER 100
-ASeq 0 10 0.25
+ASeq 0 10 0.05
 
 
 quit
