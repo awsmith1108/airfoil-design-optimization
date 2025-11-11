@@ -1,13 +1,13 @@
-LOAD Airfoil_1.dat
-Airfoil_1
+LOAD Airfoil_49.dat
+Airfoil_49
 PANE
 OPER
 Visc 1000000
 PACC
 polar_file.txt
 
-ITER 100
-ASeq 0 10 0.05
+ITER 250
+ASeq 5 7 1
 
 
 quit
